@@ -78,7 +78,6 @@ The VoiceBook project is an innovative audio playback system designed to integra
 
 **Visuals:**
 - ![PCB Design](pcb_design.jpeg)
-- ![Mobile App](android_app.apk)
 
 ## Mobile Application Screenshots
 
