@@ -88,10 +88,10 @@ The VoiceBook project is an innovative audio playback system designed to integra
 <table>
   <tr>
     <td>
-      <img src="android_app_1.jpeg" alt="Android App Screenshot 1" width="300"/>
+      <img src="android_app1.jpeg" alt="App Recording" width="300"/>
     </td>
     <td>
-      <img src="ios_app_1.jpeg" alt="iOS App Screenshot 1" width="300"/>
+      <img src="android_app2.jpeg" alt="App Save to AWS-S3" width="300"/>
     </td>
   </tr>
 </table>
