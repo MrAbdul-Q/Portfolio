@@ -45,7 +45,8 @@ You can simulate this project on Wokwi using the following link: [Wokwi Project 
 
 ## File Structure
 - **main.ino:** Contains the main program logic.
-- **diagram.json:** Used to mantain wire connections on wokwi simulator.
+- **diagram.json:** Used to mantain wire connections on Wokwi simulator.
+- **Output.png:** This shows the output obtained on Wokwi.
 - **README.md:** This file, containing project overview and instructions.
 
 ## Getting Started
