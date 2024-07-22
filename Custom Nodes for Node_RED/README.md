@@ -16,6 +16,8 @@ This project involves creating custom Node-RED nodes to efficiently process and 
 - **Flow File**: A Node-RED flow file containing the custom nodes and their configurations.
 - **README File**: Provides detailed instructions on how to install and use the custom nodes.
 - **PNG File**: Visual representation of the node features and configurations.
+- **TXT File**: Sample Log of Node Operations.
+
 
 ## Installation
 
@@ -50,4 +52,4 @@ Feel free to contribute by submitting issues or pull requests. For more details,
 
 Special thanks to the Node-RED community for their support and resources.
 
-![Node Features](path-to-png-file.png)
+![Node Features](node-features.png)
