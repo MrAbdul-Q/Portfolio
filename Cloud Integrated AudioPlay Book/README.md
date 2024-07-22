@@ -109,7 +109,7 @@ The VoiceBook project is an innovative audio playback system designed to integra
 
 ## License
 
-The VoiceBook project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+The VoiceBook project is licensed under the MIT License. See [LICENSE](../LICENSE) for details.
 
 ---
 
