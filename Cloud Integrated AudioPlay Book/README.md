@@ -10,14 +10,14 @@ The VoiceBook project is an innovative audio playback system designed to integra
 
 ## Repository Contents
 
-- [Phase_1 Report.pdf](Phase_1%20Report.pdf): Detailed report of Phase 1, including hardware setup, assembly, and testing results.
+- [Phase_1 Report.pdf](Reports/Phase_1%20Report.pdf): Detailed report of Phase 1, including hardware setup, assembly, and testing results.
 - [README.md](README.md): Project overview, setup instructions, and usage guidelines.
-- [android_app.apk](android_app.apk): APK file for the Android mobile application.
-- [circuit_setup.jpeg](circuit_setup.jpeg): Image of the hardware circuit setup.
-- [esp32_code.txt](esp32_code.txt): Source code for the ESP32 microcontroller.
-- [final_report.pdf](final_report.pdf): Comprehensive final report detailing all project phases, including figures and procedural blocks.
-- [pcb_design.jpeg](pcb_design.jpeg): Image of the PCB design for the VoiceBook.
-- [testing_video.mp4](testing_video.mp4): Video demonstrating the testing and functionality of the VoiceBook.
+- [android_app.apk](Android%App/android_app.apk): APK file for the Android mobile application.
+- [circuit_setup.jpeg](Visuals/circuit_setup.jpeg): Image of the hardware circuit setup.
+- [esp32_code.txt](ESP%Code/esp32_code.txt): Source code for the ESP32 microcontroller.
+- [final_report.pdf](Reports/final_report.pdf): Comprehensive final report detailing all project phases, including figures and procedural blocks.
+- [pcb_design.jpeg](Visuals/pcb_design.jpeg): Image of the PCB design for the VoiceBook.
+- [testing_video.mp4](Testing/testing_video.mp4): Video demonstrating the testing and functionality of the VoiceBook.
 
 ## Project Phases
 
@@ -37,10 +37,10 @@ The VoiceBook project is an innovative audio playback system designed to integra
 - **Performance:** Measured idle power consumption at approximately 80mA and demonstrated functionality with 10-15 audio messages per day.
 
 **Documents:**
-- [Phase_1 Report.pdf](Phase_1%20Report.pdf) (Detailed report of Phase 1)
+- [Phase_1 Report.pdf](Reports/Phase_1%20Report.pdf) (Detailed report of Phase 1)
 
 **Visuals:**
-- ![Circuit Setup](circuit_setup.jpeg)
+- ![Circuit Setup](Visuals/circuit_setup.jpeg)
 
 ### Phase 2: Integration with AWS Cloud Services
 
@@ -56,7 +56,7 @@ The VoiceBook project is an innovative audio playback system designed to integra
 - **User Interaction:** Push buttons facilitate intuitive control over the system.
 
 **Documents:**
-- [final_report.pdf](final_report.pdf) (Comprehensive report including Phase 2 details)
+- [final_report.pdf](Reports/final_report.pdf) (Comprehensive report including Phase 2 details)
 
 ### Phase 3: Development of Mobile Application for Cloud File Upload
 
@@ -73,21 +73,21 @@ The VoiceBook project is an innovative audio playback system designed to integra
 - **Compact Design:** PCB design ensures a sleek and functional final product.
 
 **Documents:**
-- [final_report.pdf](final_report.pdf) (Detailed report including Phase 3)
-- [android_app.apk](android_app.apk) (APK file for the Android app)
+- [final_report.pdf](Reports/final_report.pdf) (Detailed report including Phase 3)
+- [android_app.apk](Android%APP/android_app.apk) (APK file for the Android app)
 
 **Visuals:**
-- ![PCB Design](pcb_design.jpeg)
+- ![PCB Design](Visuals/pcb_design.jpeg)
 
 ## Mobile Application Screenshots
 
 <table>
   <tr>
     <td>
-      <img src="android_app1.jpeg" alt="App Recording" width="300"/>
+      <img src="Visuals/android_app1.jpeg" alt="App Recording" width="300"/>
     </td>
     <td>
-      <img src="android_app2.jpeg" alt="App Save to AWS-S3" width="300"/>
+      <img src="Visuals/android_app2.jpeg" alt="App Save to AWS-S3" width="300"/>
     </td>
   </tr>
 </table>
@@ -95,11 +95,11 @@ The VoiceBook project is an innovative audio playback system designed to integra
 
 ## Code and Configuration
 
-- **ESP32 Code:** [esp32_code.txt](esp32_code.txt) (Source code for ESP32 microcontroller)
+- **ESP32 Code:** [esp32_code.txt](ESP%Code/esp32_code.txt) (Source code for ESP32 microcontroller)
 
 ## Testing and Demonstration
 
-- **Testing Video:** [testing_video.mp4](testing_video.mp4) (Demonstrates the functionality and performance of the VoiceBook)
+- **Testing Video:** [testing_video.mp4](Testing/testing_video.mp4) (Demonstrates the functionality and performance of the VoiceBook)
 
 ## Future Work
 
