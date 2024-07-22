@@ -67,4 +67,4 @@ Run Node-RED and import the flow file to get started.
 Feel free to contribute to this project by opening issues, submitting pull requests, or providing feedback.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See [LICENSE](../LICENSE) for details.
