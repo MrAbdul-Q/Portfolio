@@ -58,9 +58,6 @@ The VoiceBook project is an innovative audio playback system designed to integra
 **Documents:**
 - [final_report.pdf](final_report.pdf) (Comprehensive report including Phase 2 details)
 
-**Visuals:**
-- ![Procedural Block](circuit_setup.jpeg) (Refer to the final report for detailed procedural blocks)
-
 ### Phase 3: Development of Mobile Application for Cloud File Upload
 
 **Objective:** Expand functionality by developing mobile applications for audio recording and uploading to the cloud.
