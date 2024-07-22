@@ -17,7 +17,12 @@ This project involves creating custom Node-RED nodes to efficiently process and 
 - **README File**: Provides detailed instructions on how to install and use the custom nodes.
 - **PNG File**: Visual representation of the node features and configurations.
 - **TXT File**: Sample Log of Node Operations.
+  
+## Node Features
 
+Node Features are genralized as follows for a specific custom server.
+
+![Node Features](node-features.png)
 
 ## Installation
 
@@ -48,8 +53,3 @@ This project is licensed under the [MIT License](LICENSE). See [LICENSE](../LICE
 
 Feel free to contribute by submitting issues or pull requests. For more details, refer to the [README file](README.md).
 
-## Acknowledgments
-
-Special thanks to the Node-RED community for their support and resources.
-
-![Node Features](node-features.png)
