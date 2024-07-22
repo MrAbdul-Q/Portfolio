@@ -56,4 +56,4 @@ You can simulate this project on Wokwi using the following link: [Wokwi Project 
 - **AVR-GCC Toolchain:** To compile the code if testing on hardware.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for more details.
