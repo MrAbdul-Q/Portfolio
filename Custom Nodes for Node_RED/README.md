@@ -42,7 +42,7 @@ This project involves creating custom Node-RED nodes to efficiently process and 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). See [LICENSE](../LICENSE) for details.
 
 ## Contributing
 
