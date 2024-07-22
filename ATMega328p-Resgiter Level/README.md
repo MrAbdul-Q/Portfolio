@@ -44,10 +44,10 @@ This project demonstrates the integration of sensors at the register level using
 You can simulate this project on Wokwi using the following link: [Wokwi Project Simulation](https://wokwi.com/projects/290056311044833800).
 
 ## File Structure
-- **main.ino:** Contains the main program logic.
-- **diagram.json:** Used to mantain wire connections on Wokwi simulator.
-- **Output.png:** This shows the output obtained on Wokwi.
-- **Project_Report.pdf:** This file, containing project Report.
+- **Source Files/main.ino:** Contains the main program logic.
+- **Source Files/diagram.json:** Used to mantain wire connections on Wokwi simulator.
+- **Results/Output.png:** This shows the output obtained on Wokwi.
+- **Results/Project_Report.pdf:** This file, containing project Report.
 - **README.md:** This file, containing project overview and instructions.
 
 ## Getting Started
