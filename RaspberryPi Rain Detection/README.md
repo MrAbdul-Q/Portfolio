@@ -17,7 +17,7 @@ This project utilizes Node-RED on a Raspberry Pi to integrate a rain sensor with
 ## Files
 
 - **Flow File**: [flow.json](./flow.json) - Import this file into your Node-RED environment to set up the project.
-- **Pin Configurations**: [pin_config.png](./pin_config.png) - Image showing GPIO pin connections and configurations.
+- **Pin Configurations**: [pin-config.jpeg](./pin-config.jpeg) - Image showing GPIO pin connections and configurations.
 
 ## Getting Started
 
